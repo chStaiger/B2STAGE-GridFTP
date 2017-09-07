@@ -47,7 +47,7 @@ Prerequisites
 	sudo apt-get install -y libglobus-common-dev libglobus-gridftp-server-dev libglobus-gridmap-callout-error-dev
 	sudo apt-get install -y libcurl4-openssl-dev
 	sudo apt-get install -y git
-	sudo apt-get install -y g++
+	sudo apt-get install -y g++ make cmake
 	sudo apt-get install -y dpkg-dev
 	sudo apt-get install -y cdbs
 	sudo apt-get install -y globus-gsi-cert-utils-progs
